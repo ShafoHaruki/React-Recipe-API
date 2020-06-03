@@ -11,3 +11,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
+
+## `Recipe API`
+
+Is got from Edamam API
+Only allow up to 10 food searches per minute on this free account
